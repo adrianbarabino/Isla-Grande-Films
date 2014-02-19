@@ -4,7 +4,6 @@
 	<meta charset="UTF-8"> <!-- Metadatos: Define que el charset es UTF-8 -->
 	<title>Document</title> <!-- Titulo -->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
-	
 	<link rel="stylesheet" href="estilo.css">
 </head>
 <body> <!-- Inicia el cuerpo de la página -->
@@ -41,6 +40,6 @@
 		</footer>
 	</section>
 	
-
+	<script src="principal.js"></script>
 </body>
 </html>
