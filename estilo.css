@@ -8,6 +8,7 @@ body{
 
 nav{
 	background: #67b7e1;
+	transition: all 1s ease-in-out;
 }
 
 nav ul{
